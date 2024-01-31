@@ -1,5 +1,7 @@
 from confluent_kafka import Producer
 
+#NOTE: to start with producer and consumer  run the kafka-server first
+
 #properties
 config = {
     "bootstrap.servers":'localhost:9092',
