@@ -7,7 +7,7 @@ Explore detailed tutorials on Kafka, including installation steps and essential 
 ## Video Tutorials
 For a more visual learning experience, check out our video tutorials:
 1. Kafka Introduction: https://youtu.be/BaCbrDVXuos?si=czVMJuztIHH78vqr
-
+2. Kafka Installation and setup in windows: https://youtu.be/m9I3bhKl8wM
 
 NOTE: This repository work is in progress right now. 
 
